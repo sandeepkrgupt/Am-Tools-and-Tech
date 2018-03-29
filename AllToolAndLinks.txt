@@ -1,0 +1,24 @@
+perforce - https://www.perforce.com/ (for keeping your project)
+
+jenkins - https://jenkins.io/  (for build your file changes)
+
+sonatype nexus - https://www.sonatype.com/nexus-repository-sonatype (for dwld WAR files to deploy on Env)
+
+jira - https://www.atlassian.com/software/jira (for creating user stories or wire frames)
+
+yeoman - http://yeoman.io/ (for creating standered project structure)
+
+mobaxtream - https://mobaxterm.mobatek.net/ (checking logs for BE API, Bamboo uses for same)
+
+stash for git - https://www.atlassian.com/software/bitbucket/download (can use bitbucket)
+
+crxde - https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/developing-with-crxde-lite.html(for Keeping Adobe AEM Projects)
+
+AEM - https://www.adobe.com/in/marketing-cloud/experience-manager.html#x
+
+lodash - https://lodash.com/
+
+underscore - http://underscorejs.org/
+
+
+
