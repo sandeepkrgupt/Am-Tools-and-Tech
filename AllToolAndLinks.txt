@@ -8,7 +8,7 @@ jira - https://www.atlassian.com/software/jira (for creating user stories or wir
 
 yeoman - http://yeoman.io/ (for creating standered project structure)
 
-mobaxtream - https://mobaxterm.mobatek.net/ (checking logs for BE API, Bamboo uses for same)
+mobaxtream/putty - https://mobaxterm.mobatek.net/ (checking logs for BE API, Bamboo uses for same)
 
 stash for git - https://www.atlassian.com/software/bitbucket/download (can use bitbucket)
 
@@ -29,4 +29,12 @@ VM Tool - https://www.vmware.com/support/ws5/doc/new_guest_tools_ws.html
 CA Agile - https://rally1.rallydev.com/ ( For Creating/Managing Project Tasks, Performance, Etc.. )
 
 Mocha (For writing Test Case) - https://mochajs.org/
+
+SQL Server
+
+Postman
+
+Fiddler
+
+Beyond Compare
 
