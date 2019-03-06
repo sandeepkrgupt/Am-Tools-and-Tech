@@ -2,7 +2,7 @@ IOT - Developer's testing of all possible scenaios. e.g for login user must be s
 and all error handling test.
 
 
-POC - Proof of concept is the demo of the User Story Assigned to you for PO to access your user story.
+POC - Proof of concept is the demo of the User Story Assigned to you for PO to accept your user story and mark it as complete.
 
 IUT - Unit testing should be done by Testers.
 
