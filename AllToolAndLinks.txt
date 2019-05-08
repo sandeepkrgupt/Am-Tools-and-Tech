@@ -28,7 +28,7 @@ VM Tool - https://www.vmware.com/support/ws5/doc/new_guest_tools_ws.html
 
 CA Agile - https://rally1.rallydev.com/ ( For Creating/Managing Project Tasks, Performance, Etc.. )
 
-Mocha (For writing Test Case) - https://mochajs.org/
+Mocha, enzyme, chai (For writing Test Case) - https://mochajs.org/
 
 SQL Server
 
