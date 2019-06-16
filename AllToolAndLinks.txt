@@ -1,16 +1,56 @@
+what is perforce :-
+Perforce is a version control system in which users connect to a shared file repo. 
+it is used to transfer files between file repo. to indevidual users workstations.
+
 perforce - https://www.perforce.com/ (for keeping your project)
+----------------------------------------------------------
+what is jenkins:-
+it is a software that allows continuous integration. 
+workflow -
+1. Developer checkIn their source code.
+2. jenkins will pick the changed source code and trigger a build and run any test if required.
+3. out build output will be available in jenkins dashboard. Automatic notification can also be sent to developers email.
+
+Easily Configurable. Jenkins can be easily modified and extended. It deploys code instantly, generates test reports. 
+Jenkins can be configured according to the requirements for continuous integrations and continuous delivery
 
 jenkins - https://jenkins.io/  (for build your file changes)
+---------------------------------------------------------------
+what is Nexus :- 
+It is a repository manager. It allow you to proxy, collect and manage your dependencies so that you won't need to
+organise collection of jars. Make easy to distribute your s/w. internally you configure your build to publish and 
+then it became available for other developers.
 
 sonatype nexus - https://www.sonatype.com/nexus-repository-sonatype (for dwld WAR files to deploy on Env)
+--------------------------------------------------------------
+what is jira :-
+It is used for bug tracking, issue tracking, and project management.
 
 jira - https://www.atlassian.com/software/jira (for creating user stories or wire frames)
+---------------------------------------------------------------
+what is yeoman :-
+Yeoman is scafolding or project generation tool. It help us to kickoff our new projects.
+there are hundreds of generators available that are maintained by yeoman community.
+A generator is a plugin that run with 'yo' command to scaffold your project.
 
 yeoman - http://yeoman.io/ (for creating standered project structure)
+-----------------------------------------------------------------
+what is mobaxtream or putty :-
+this is a terminal emulation s/w. If you want to run command on a remote server like linux/unix you can use putty.
 
 mobaxtream/putty - https://mobaxterm.mobatek.net/ (checking logs for BE API, Bamboo uses for same)
+----------------------------------------------------------------
+what is stash :-
+Stash is a repository management system, used to manege git or other repos.
+Features-
+1. security - Huge corporations want to manage their application who can access which file with what restrictions.
+2. Administration - you can integrate with corporate system. you can manage user easily.
+3. Integration - you may have Jira for issue tracking, bamboo as build server, and confluence as wiki, and you can 
+easily integrate them.
 
 stash for git - https://www.atlassian.com/software/bitbucket/download (can use bitbucket)
+------------------------------------------------------------------
+what is crxde :-
 
 crxde - https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/developing-with-crxde-lite.html(for Keeping Adobe AEM Projects)
 
