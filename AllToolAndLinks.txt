@@ -45,3 +45,4 @@ Sourcetree - (UI tool For GIT) https://www.sourcetreeapp.com/
 Yaml - https://youtu.be/cdLNKUoMc6c
 Soap - 
 Filezilla
+quality Control System (HP Lifecycle Management)
