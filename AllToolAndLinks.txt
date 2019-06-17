@@ -65,7 +65,8 @@ stash for git - https://www.atlassian.com/software/bitbucket/download (can use b
 what is crxde :-
 CRXDE is embedded into AEM and enables you to perform standard development tasks. 
 With CRXDE, you can create a project, create and edit files (like .jsp and .java), folders, templates, components etc.
-crxde - https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/developing-with-crxde-lite.html(for Keeping Adobe AEM Projects)
+crxde - https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/developing-with-crxde-lite.html
+(for Keeping Adobe AEM Projects)
 -----------------------------------------------------------------
 AEM - https://www.adobe.com/in/marketing-cloud/experience-manager.html#x
 Adobe Experience Manager (AEM), is a comprehensive content management solution for building websites,
