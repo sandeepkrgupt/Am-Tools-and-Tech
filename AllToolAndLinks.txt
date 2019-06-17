@@ -92,7 +92,7 @@ Redux is a state management tool used for React, angular vue etc.
 VM Tool - https://www.vmware.com/support/ws5/doc/new_guest_tools_ws.html
 ----------------------------------------------------------------
 what is CA Agile
-Rally is a product of CA agile which is used for organisation to track their project and manage delivery.
+Rally is a product of CA agile which is used by organisation to track their project and manage delivery.
 Features -
 1. we can add the projects tasks in rally.
 2. we can appoint people for certain taks and monitor them.
