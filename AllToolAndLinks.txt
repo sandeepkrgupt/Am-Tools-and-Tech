@@ -9,7 +9,8 @@ it is a software that allows continuous integration.
 workflow -
 1. Developer checkIn their source code.
 2. jenkins will pick the changed source code and trigger a build and run any test if required.
-3. out build output will be available in jenkins dashboard. Automatic notification can also be sent to developers email.
+3. after successfull build, output will be available in jenkins dashboard.
+Automatic notification can also be sent to developers email.
 
 Easily Configurable. Jenkins can be easily modified and extended. It deploys code instantly, generates test reports. 
 Jenkins can be configured according to the requirements for continuous integrations and continuous delivery
