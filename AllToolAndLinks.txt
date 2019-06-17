@@ -119,7 +119,8 @@ It presents you with a friendly GUI for constructing requests and reading respon
 Fiddler
 what is Fiddler
 Fiddler is a free web debugging tool which logs all HTTP(s) traffic between your computer and the Internet.
-Use it to debug traffic that supports a proxy like IE, Chrome, Safari, Firefox,
+Use it to debug traffic that supports a proxy like IE, Chrome, Safari, Firefox.
+You can use it to map your local file to any server file. It just replaces server file to your local file.
 ---------------------------------------------------------------
 Beyond Compare
 what is Beyond Compare
