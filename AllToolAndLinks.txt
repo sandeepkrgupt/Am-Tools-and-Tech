@@ -35,7 +35,7 @@ Confluence
 what is Confluence :-
 It makes easy to bring all information related to our project at one place. 
 provide a centralised and organised place to manage and find all of them.
-we can put all important files related to our project like -
+we can put all important files related to our project need like -
 documents, videos, pdf, images, conversations, email, url, xl, spread sheets, presentations etc.
 
 https://winginsky.atlassian.net/wiki/welcome
