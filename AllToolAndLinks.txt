@@ -27,7 +27,7 @@ sonatype nexus - https://www.sonatype.com/nexus-repository-sonatype (for dwld WA
 what is jira :-
 It is used for bug tracking, issue tracking, and project management. 
 We can manage test cases, defects and get the progress reports.
-We can create a Jira story and start tracking out items in project and make easy to work with them.
+We can create a Jira story and start tracking out items in project and easily handle them.
 
 jira - https://www.atlassian.com/software/jira (for creating user stories or wire frames)
 ---------------------------------------------------------------
