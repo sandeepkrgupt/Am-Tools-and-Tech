@@ -70,7 +70,7 @@ crxde - https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/de
 -----------------------------------------------------------------
 AEM - https://www.adobe.com/in/marketing-cloud/experience-manager.html#x
 Adobe Experience Manager (AEM), is a comprehensive content management solution for building websites,
-mobile apps and forms. And it makes it easy to manage your marketing content and assets.
+mobile apps and forms. And it makes easy to manage your marketing content and assets.
 ---------------------------------------------------------------
 what is lodash
 Ladash is a modern Javascript utility libraby.Lodash make Js easier to work with array,strings,objects etc.
