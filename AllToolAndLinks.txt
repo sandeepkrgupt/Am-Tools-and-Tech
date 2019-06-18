@@ -78,6 +78,13 @@ it is good for
 1. iterating arrays,strings and objects. 
 2. Manupulate and test values 
 3. create composite functions.
+Some Lodash Functions :-
+1. _.assign = it is equivalent to spread operator.
+2. _.times = n times iteration of an argument inside a function.
+2. _.find = find and key value in object or item inside arrays.
+var arr = ["foo","bar","bax"];
+var rslt = _.find(arr, 'bax');
+
 lodash - https://lodash.com/
 ----------------------------------------------------------------
 underscore - http://underscorejs.org/
