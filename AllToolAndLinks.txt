@@ -113,6 +113,64 @@ what is Mocha
 Mocha is a JavaScript test framework running on Node.js and in the browser,
 making asynchronous testing simple and fun. Mocha tests run serially, 
 allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+Chai - 
+It is an assertion library, which provides some features like below :-
+1. functions like - expect, should, assert etc.
+Simple Example -
+import {expect} from 'chai';
+describe('test for Math.abs', ()=> {
+  it('should return + value', () => {
+    expect(Math.abs(10).to.be.equal(10))
+  });
+  it('Should return + value for - value', () => {
+    expect(Math.abs(-10).to.be.equal(10));
+  });
+})
+=============
+enzyme :-
+Js testing utility for React. We use enzyme for isolated test of single React component which called shallow rendering.
+because before shallow rendering we need to find the root component and then props -> props -> then the inner component
+which was very tuff.
+example -
+import {shallow} from 'enzyme';
+import React from 'react';
+const wrapper = shallow(<ReactComponent/>);
+Some enzyme methods -
+shallow - isolated test to a single component.
+mount - for full DOM rendering can be test for life cycle.
+render - Render component to static HTML.
+
+detail example -
+Component Folder -> App.js
+import React from 'react';
+class Test extends React.Component {
+  render() {
+    return(
+      <div className="foo">
+        <span className="bar">Hello Enzyme</span>
+      </div>
+    )
+  }
+}
+export default Test;
+AppTest.js -
+import {shallow} from 'enzyme';
+import {Test} from './Component';
+
+describe('Going To check Test Comp.', () => {
+  let wrapper;
+  beforeEach(() => { wrapper = shallow(<Test/>)});
+  it('should include div with class foo', ()=> {
+    expect(wrapper.find('div.foo').to.have.lengthOf(1))
+    });
+    it('should include span with test Hello Enzyme', ()=> {
+      expect(wrapper.find('span.bar').to.be.equal('Hello Enzyme'));
+      });
+    })
+    
+  })
+})
+
 ------------------------------------------------------------------
 SQL Server
 commands -
@@ -156,3 +214,4 @@ quality Control System (HP Lifecycle Management)
 What is QC
 HP Application Lifecycle Management is a set of software tools for application development and testing. 
 It includes tools for test planning and functional testing, performance testing, developer management, and defect management.
+
