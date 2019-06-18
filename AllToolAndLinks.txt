@@ -156,7 +156,7 @@ import React from 'react';
 const wrapper = shallow(<ReactComponent/>);
 Some enzyme methods -
 shallow - isolated test to a single component.
-mount - for full DOM rendering can be test for life cycle.
+mount - for full DOM rendering, can be test for life cycle.
 render - Render component to static HTML.
 
 detail example -
@@ -182,7 +182,7 @@ describe('Going To check Test Comp.', () => {
   it('should include div with class foo', ()=> {
     expect(wrapper.find('div.foo').to.have.lengthOf(1))
     });
-    it('should include span with test Hello Enzyme', ()=> {
+    it('should include span with text Hello Enzyme', ()=> {
       expect(wrapper.find('span.bar').to.be.equal('Hello Enzyme'));
       });
     })
