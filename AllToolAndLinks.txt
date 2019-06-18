@@ -1,7 +1,26 @@
+React Files and their description :-
+Inside digital-breadcrumbs-steps-module\src\widget
+------------------------------------------
+1. BreadcrumbsSteps.config :- 
+-----------------------------------------
+2. BreadcrumbsSteps.const :-
+-----------------------------------------
+3. BreadcrumbsSteps.decorator :- 
+--------------------------------------------
+4. BreadcrumbsSteps.i18n :- 
+i18n stands for internationalization which means the process of make your
+products ready for localization (l10n) which is another process that 
+adapt the product to diffrent languages and cultures.
+-----------------------------------------------
+5. BreadcrumbsSteps.propsProvider :-
+6. BreadcrumbsSteps.connect :- 
+connect() connect React Component to redux store. 
+It provide the connected component with only data needed from the store
+and the fun used to dispatch action to the store.
 what is perforce :-
 Perforce is a version control system in which users connect to a shared file repo. 
 it is used to transfer files between file repo. to indevidual users workstations.
-
+---------------------------------------------------------
 perforce - https://www.perforce.com/ (for keeping your project)
 ----------------------------------------------------------
 what is jenkins:-
