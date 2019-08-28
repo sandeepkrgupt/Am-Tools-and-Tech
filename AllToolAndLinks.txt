@@ -234,3 +234,7 @@ What is QC
 HP Application Lifecycle Management is a set of software tools for application development and testing. 
 It includes tools for test planning and functional testing, performance testing, developer management, and defect management.
 
+--------------------------------------
+Figma
+--------------------------------------
+Slack
